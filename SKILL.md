@@ -1,5 +1,5 @@
 ---
-name: opencode-skill
+name: opencode
 description: Reference for OpenCode – the open-source AI coding agent. Use when the user asks about OpenCode CLI commands, server API, SDK usage, formatters, configuration, or integration patterns. Do not use for general coding tasks unrelated to OpenCode itself.
 ---
 
