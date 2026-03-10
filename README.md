@@ -2,13 +2,13 @@
 
 An [OpenCode](https://opencode.ai) skill that provides reference documentation for the OpenCode CLI, Server, SDK, and Formatters.
 
-## Usage
-
-Install as a skill in your OpenCode project:
+## Install
 
 ```bash
-opencode skill add ericclemmons/opencode-skill
+npx skills add ericclemmons/opencode-skill
 ```
+
+Works with [Claude Code](https://claude.ai/claude-code), [Cursor](https://cursor.com), [Windsurf](https://windsurf.com), [OpenCode](https://opencode.ai), and [other agents](https://skills.sh/).
 
 ## What's Included
 
